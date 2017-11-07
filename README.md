@@ -1,2 +1,2 @@
 # PathFinder
-A visual path finder project made while learning about simple artificial intelligence algorithms.
+A visual path finding project made while learning about simple artificial intelligence algorithms.
